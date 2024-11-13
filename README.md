@@ -16,3 +16,5 @@ Access
 ![image](https://github.com/user-attachments/assets/af29a8a0-4b4b-4a50-a792-1b0d464814ac)
 ![image](https://github.com/user-attachments/assets/80f0297b-958f-45aa-a723-991d0b268415)
 
+**Link:**
+https://github.com/GratsiaMariia/power-bi-logistik-analysis/blob/main/Final_Project.pbix 
